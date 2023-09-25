@@ -10,6 +10,7 @@ nav ul {
     background-color: #103452;
     padding: 10px;
     display: flex;
+    justify-content: center;
     margin: 0;
 }
 
