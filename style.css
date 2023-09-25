@@ -1,0 +1,40 @@
+body {
+    background-color: lightblue;
+    margin: 0;
+}
+
+
+
+nav ul {
+    list-style: none;
+    background-color: #103452;
+    padding: 10px;
+    display: flex;
+    margin: 0;
+}
+
+nav li {
+    margin-right: 20px;
+    font-weight: bold;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+}
+
+nav a:hover {
+    background-color: blue;
+    padding: 11px;
+}
+
+footer {
+    background-color: #103452;
+    color: white;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+}
